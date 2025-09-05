@@ -1,2 +1,3 @@
-y = input("Enter your name: ")
-print(y)
+x = input("Enter your name: ")
+
+print("Your name is: ", x)
